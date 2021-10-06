@@ -1,0 +1,14 @@
+Brandon Bieschke
+ECE 361
+Ex1 lessons learned:
+
+I have used github in the past, but a refresher is always nice
+
+Firstly, we needed an update on the master-main situation. Git does not permit new repos pushed as masters anymore, due to the politics du jour.
+Please update the text to say "main" instead of master, as the commands don't work.
+
+Also, when adding a remote bookmark to the repo, the "origin" tag needs to be added, i.e. git remote add origin URL-for-the-project.
+
+Otherwise, it was a good intro to git; students will likely learn how to merge branches at another date.
+
+Thank you!
